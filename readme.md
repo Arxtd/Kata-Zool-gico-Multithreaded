@@ -33,4 +33,5 @@ Usar threads para simular os animais realizando atividades.
 Implementar sincronização com Semaphore ou synchronized para controlar os cuidadores.
 Garantir que os animais consigam se alimentar respeitando a limitação dos cuidadores.
 
+<h2>Atenção: Testes são indispensavéis</h2>
 
